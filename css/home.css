@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    background-color:grey;
+    color: aliceblue;
+    min-height: 20px;
+    padding: 30px;
+    padding-left: 100px;
+}
+
+i{
+    position: absolute;
+}
+
+h1, h5{
+    margin-left: 80px; 
+}
+
+.navbar{
+    border: 4px solid black;
+    background-color:black;
+}
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 40px;
+}
+
+a:active{
+    color: blueviolet;
+}
+
+a:hover{
+    color: aqua;
+}
+
+.front{
+    border-right:4px solid #d3d3d3;
+    width:70%;
+    padding: 40px;
+}
+
+.page{
+ display: flex;
+ padding: 10px;
+}
+
+.border{
+    border: 2px solid #d3d3d3;
+    padding:2px;
+    width: 200px;
+
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+}
+
+.flex{
+    display: flex;
+}
+
+b{
+    padding-left: 40px;
+}
+
+.footer{
+    padding-left: 50px;
+}
+
+.side{
+    margin-left:77%;
+    margin-top:30px;
+    position: absolute;
+}
+
